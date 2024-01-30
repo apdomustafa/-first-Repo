@@ -1,6 +1,9 @@
 int main(){
 
     int x ;
-    if(x==50);
+    if(x==50){
+		
+		
+	}
 
 }
