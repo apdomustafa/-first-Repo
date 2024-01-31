@@ -1,6 +1,9 @@
 int main(){
 
-    float x = 10.0;
-	
+    int x ;
+    if(x==50){
+		
+		
+	}
 
 }
